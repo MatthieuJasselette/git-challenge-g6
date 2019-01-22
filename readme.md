@@ -20,4 +20,4 @@
 | zebra stripes | are neat      |    $1 |
 
 # img :
-![alt text][git-master.jpeg]
+![alt text](git-master.jpeg)
