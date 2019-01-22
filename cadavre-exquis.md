@@ -9,3 +9,7 @@
 7. Thibaut : Bob est un cochon voleur de culotte.
 8. Thibaut : Michel est un lama violoniste.
 9. Thibaut : René est un renne magicien.
+
+10. Matthieu : Mais soudain, voilà la pluie.
+11. Matthieu : L'araignée tomba par terre.
+12. Matthieu : C'était vraiment pas sa journée.
